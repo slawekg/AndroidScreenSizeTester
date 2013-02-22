@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScreenSizeTester</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="screen_size_dir">Screen size used from values-* directory:</string>
+    <string name="density_drawable_dir">Drawable used from drawable-* directory:</string>
+    <string name="screen_size_label">Screen size:</string>
+    <string name="density_label">Density:</string>
+    <string name="width_label">Width:</string>
+    <string name="height_label">Height:</string>
+
+</resources>
